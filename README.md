@@ -5,7 +5,7 @@
 #### Submitted to Neurocomputing (Under Review)
 
 ### Training dataset
-#### The traing dataset of GLADNet Dataset-3500 can be downloaded by by clicking [here]().
+#### The traing dataset of GLADNet Dataset-3500 can be downloaded by by clicking [here]() and [here]().
 
 ### Validation dataset
 #### The validation dataset of GLADNet Dataset-500 can be downloaded by by clicking [here](https://wa01gy6lnb.feishu.cn/file/boxcnRCQqlkm6AM9VTXSyVK6qUe).
