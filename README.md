@@ -14,5 +14,5 @@
 #### The list of image names of validation dataset of GLADNet Dataset-500 can be downloaded by by clicking [here](https://github.com/mdcnn/DTSD/blob/main/GLADNet%20Dataset-500.txt).
 
 ### Testing dataset
-#### The testing dataset of BRIGHTENING Dataset-36 can be downloaded by by clicking [here](https://wa01gy6lnb.feishu.cn/drive/folder/fldcnJamfZfeiAAcvjD26CibsHd).
+#### The testing dataset of BRIGHTENING Dataset-36 can be downloaded by by clicking [here](https://raw.githubusercontent.com/mdcnn/DTSD/main/BRIGHTENING%20Dataset-36.rar).
 #### The testing dataset of LIME Dataset can be downloaded by by clicking [here](https://raw.githubusercontent.com/mdcnn/DTSD/main/LIME%20Dataset.rar)
