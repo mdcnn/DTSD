@@ -8,7 +8,7 @@
 #### The traing dataset of GLADNet Dataset-3500 can be downloaded by by clicking [here]().
 
 ### Validation dataset
-#### The validation dataset of GLADNet Dataset-500 can be downloaded by by clicking [here]().
+#### The validation dataset of GLADNet Dataset-500 can be downloaded by by clicking [here](https://wa01gy6lnb.feishu.cn/file/boxcnRCQqlkm6AM9VTXSyVK6qUe).
 
 ### Testing dataset
 #### The testing dataset of BRIGHTENING Dataset-36 can be downloaded by by clicking [here](https://wa01gy6lnb.feishu.cn/drive/folder/fldcnJamfZfeiAAcvjD26CibsHd).
