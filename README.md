@@ -1,9 +1,6 @@
-## Learning deep texture-structure decomposition for low-light image restoration and enhancement 
+## Learning deep texture-structure decomposition for low-light image restoration and enhancement (Neurocomputing2023)
 
 #### Authors：Lijun Zhao, Ke Wang, Jinjing Zhang, Anhong Wang, Huihui Bai
-
-#### Submitted to Neurocomputing (Under Review)
-
 
 #### The GLADNet Dataset can be downloaded by clicking [Baidu Pan (Code: ti6k)](https://pan.baidu.com/s/1dIam8dMOWk4-MhZeEC6KnQ) or [Google Drive](https://drive.google.com/file/d/18T0S7jLP987QajLUVjYNDwIMKmHAdZQx/view).
 
